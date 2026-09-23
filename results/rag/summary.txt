@@ -1,0 +1,17 @@
+============================================================
+RAG-ENHANCED CODE DEBUGGING RESULTS
+============================================================
+
+Exact Match Rate: 62.00%
+ROUGE-1: 0.8470
+ROUGE-2: 0.8484
+ROUGE-L: 0.8494
+SacreBLEU: 59.71
+
+Per-Bug-Type:
+  Algorithm: 33.33% (2/6)
+  Assignment: 80.00% (4/5)
+  Build/Package/Merge: 50.00% (1/2)
+  Checking: 50.00% (1/2)
+  Timing/Serialization: 100.00% (2/2)
+  multiple error: 63.64% (21/33)
