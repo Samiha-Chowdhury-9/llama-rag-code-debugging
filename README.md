@@ -113,7 +113,7 @@ Each sample includes information such as:
 
 The **3,216 training samples** are also used as the retrieval knowledge base for the RAG pipeline.
 
-Dataset files are not included in this repository. See [`data/README.md`](https://chatgpt.com/g/g-p-6a8b2390b1e48191a918802b83a64f76-samiha-chowdhury/c/data/README.md) for the expected format.
+Dataset files are not included in this repository. 
 
 ------
 
@@ -239,18 +239,6 @@ Because this evaluation contains only 50 test examples, the results should be tr
 | Multiple Error          | 63.64%      |
 
 These values are based on the same 50-example pilot test.
-
-------
-
-## Result Visualizations
-
-### Fine-Tuned Model
-
-[Fine-tuned model results](results/baseline/validation_plot.png)
-
-### RAG-Enhanced Model
-
-[RAG results](results/rag/rag_validation_plot.png)
 
 ------
 
